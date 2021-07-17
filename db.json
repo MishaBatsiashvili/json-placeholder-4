@@ -19,14 +19,14 @@
   "blog": [
     {
       "id": 1,
-      "title": "Corey Feldman Rings in His 50th Birthday with a Summer of Love Celebration [Exclusive Interview]",
+      "title": "Corey Feldman Rings in His 50th Birthday with a Summer of Love Celebration Exclusive Interview",
       "text": "Corey Feldman has announced a Summer of Love celebration that kicks off with his 50th birthday party in Hollywood"
     },
     {
       "id": 2,
       "title": "Sorry Netflix, Fear Street: 1978 Wasn't Filmed at the Friday the 13th: Jason Lives Camp Location",
       "text": "Sean Clark, of the infamous Horror's Hallowed Grounds, sets the records straight about Netflix's recent claim that Fear Street Part Two"
-    },
+    }
   ],
   "profile": {
     "name": "typicode"
